@@ -77,11 +77,11 @@ variable "rds_engine_version" {
 }
 variable "rds_username" {
   description = "db username"
-  default     = "hola"
+  default     = "xxxxx"
 }
 variable "rds_password" {
   description = "db password"
-  default     = "holaquetal"
+  default     = "xxxxxx"
 }
 variable "rds_name" {
   description = "db_bidnamic"
